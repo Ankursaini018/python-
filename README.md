@@ -34,16 +34,22 @@ jupyter notebook
 📊 Libraries Covered
 
 NumPy – Fast numerical operations with multi-dimensional arrays.
+
 Pandas – Easy data manipulation and analysis.
+
 Matplotlib – Customizable static, animated, and interactive plots.
+
 Seaborn – High-level interface for attractive and informative statistical graphics.
 
 
 🌟 Sample Output Previews
 
 ✅ Create and manipulate arrays with NumPy
+
 ✅ Clean and filter data using Pandas
+
 ✅ Build line charts, scatter plots, and histograms with Matplotlib
+
 ✅ Draw heatmaps, boxplots, and pairplots with Seaborn
 
 🙌 Author
