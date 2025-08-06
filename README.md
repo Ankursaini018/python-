@@ -53,11 +53,14 @@ Seaborn – High-level interface for attractive and informative statistical grap
 ✅ Draw heatmaps, boxplots, and pairplots with Seaborn
 
 🙌 Author
+
 Ankur Saini
+
 📘 Python Enthusiast | 📊 Data Explorer
 🔗 GitHub Profile
 
 💡 Contribute
+
 Found something to improve? Want to add more notebooks or examples?
 
 Pull requests are welcome! 🚀
